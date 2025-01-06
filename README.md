@@ -15,4 +15,4 @@ E-Commerce Sales Insights Analysis involves examining sales data to understand t
 - ## Dashboard
 - <a href="https://github.com/SaiKiran767/Customer-Risk-Analysis-Dashboard-/commit/492ed99f6238c9aae30a82fed09640dd76386fca">Dashboard</a>
 
-  ![img alt].(https://github.com/SaiKiran767/Customer-Risk-Analysis-Dashboard-/blob/main/Screenshot%202025-01-06%20121502.png)
+  ![image alt].(https://github.com/SaiKiran767/Customer-Risk-Analysis-Dashboard-/blob/dc21d51436c7188db0aec277bf09a53bf3298e9c/Screenshot%202025-01-06%20121502.png)
