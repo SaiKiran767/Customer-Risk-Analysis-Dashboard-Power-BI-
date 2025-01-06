@@ -14,4 +14,5 @@ E-Commerce Sales Insights Analysis involves examining sales data to understand t
 - Demographics of a Churn People
 - ## Dashboard
 - <a href="https://github.com/SaiKiran767/Customer-Risk-Analysis-Dashboard-/commit/492ed99f6238c9aae30a82fed09640dd76386fca">Dashboard</a>
+- <a href="https://github.com/SaiKiran767/Customer-Risk-Analysis-Dashboard-/commit/177ff5787f25f65437ab490e1f14ae68145a6af8">Img</a>
 
